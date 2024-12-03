@@ -1,6 +1,6 @@
 {
   "name": "@gigmade/utils",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "shared utils and types",
   "type": "module",
   "main": "dist/cjs/index.cjs",
