@@ -46,7 +46,7 @@
     "prepare": "husky install"
   },
   "devDependencies": {
-    "bebbi-scripts": "^0.5.7",
+    "bebbi-scripts": "^0.5.8",
     "husky": "^8.0.3"
   },
   "author": "Stefan Baumann <stefan.baumann@gigmade.com>",
