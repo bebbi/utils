@@ -8,7 +8,7 @@
     ".": "./src/index.ts"
   },
   "scripts": {
-    "test": "bebbi-scripts test",
+    "test": "vitest run",
     "typecheck": "tsc --noEmit"
   },
   "author": "Stefan Baumann <stefan.baumann@gigmade.com>",
